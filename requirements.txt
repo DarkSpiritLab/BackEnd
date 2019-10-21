@@ -71,7 +71,7 @@ texttable==0.9.1
 urllib3==1.22
 vine==1.1.4
 visitor==0.1.3
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 WTForms==2.1
 xerial==1.1.11b1
 xlrd==1.1.0
