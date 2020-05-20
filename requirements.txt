@@ -36,7 +36,7 @@ gevent==1.2.2
 gevent-websocket==0.10.1
 greenlet==0.4.13
 gunicorn==19.7.1
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.9.6
