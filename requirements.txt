@@ -43,7 +43,7 @@ Jinja2==2.9.6
 jwt==0.5.3
 kombu==4.1.0
 lml==0.0.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 numpy==1.13.3
 oauth2==1.9.0.post1
